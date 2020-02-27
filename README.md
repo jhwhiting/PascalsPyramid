@@ -3,7 +3,7 @@ Pascal's Pyramid, written in C with pointers.
 
 This will print Pascal's Pyramid to a depth of ten rows:
 
-1
+```1
 1 1
 1 2 1
 1 3 3 1
